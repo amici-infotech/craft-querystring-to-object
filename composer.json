@@ -1,0 +1,38 @@
+{
+	"name": "amici/craft-querystring-to-object",
+	"description": "Craft CMS filter to convert Query String to Object.",
+	"version": "1.0.0",
+	"type": "craft-plugin",
+	"keywords": ["craft", "cms", "craftcms", "craft-plugin", "amici", "querystring", "querystring-to-object", "object"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Amici Infotech",
+			"homepage": "https://amiciinfotech.com"
+		}
+	],
+	"support": {
+		"email": "contact@amiciinfotech.com",
+		"issues": "https://github.com/mufi/craft-querystring-to-object/issues?state=open",
+		"source": "https://github.com/mufi/craft-querystring-to-object",
+		"docs": "https://github.com/mufi/craft-querystring-to-object"
+	},
+	"require": {
+		"craftcms/cms": "^3.0.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"amici\\QuerystringToObject\\": "src/"
+		}
+	},
+	"extra": {
+		"handle": "querystring-to-object",
+		"name": "Query string to Object",
+		"developer": "Amici Infotech",
+		"developerUrl": "https://amiciinfotech.com",
+		"documentationUrl": "https://docs.amiciinfotech.com/craft-cms/querystring-to-object",
+		"changelogUrl": "https://github.com/mufi/craft-querystring-to-object/master/CHANGELOG.md",
+		"downloadUrl": "https://github.com/mufi/craft-querystring-to-object/archive/master.zip",
+		"class": "amici\\QuerystringToObject\\QuerystringToObject"
+	}
+}
