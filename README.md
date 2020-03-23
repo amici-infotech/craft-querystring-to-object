@@ -27,10 +27,8 @@ In the Control Panel, go to Settings → Plugins and click the “Install” but
 {% set obj = craft.app.request.queryString | queryToObj %}
 ```
 
-
-```
 ### Documentation
-Visit the [Super PDF page](https://docs.amiciinfotech.com/craft/querystring-to-object) for all documentation, guides, pricing and developer resources.
+Visit the [Craft Query to Object page](https://docs.amiciinfotech.com/craft/querystring-to-object) for all documentation, guides, pricing and developer resources.
 
 ### Support
 Get in touch with us via the [Amici Infotech Support](https://amiciinfotech.com/contact) or by [creating a Github issue](https://github.com/amici-infotech/craft-querystring-to-object/issues)
