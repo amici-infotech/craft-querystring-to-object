@@ -13,9 +13,9 @@
 	],
 	"support": {
 		"email": "contact@amiciinfotech.com",
-		"issues": "https://github.com/mufi/craft-querystring-to-object/issues?state=open",
-		"source": "https://github.com/mufi/craft-querystring-to-object",
-		"docs": "https://github.com/mufi/craft-querystring-to-object"
+		"issues": "https://github.com/amici-infotech/craft-querystring-to-object/issues?state=open",
+		"source": "https://github.com/amici-infotech/craft-querystring-to-object",
+		"docs": "https://github.com/amici-infotech/craft-querystring-to-object"
 	},
 	"require": {
 		"craftcms/cms": "^3.0.0"
@@ -30,9 +30,9 @@
 		"name": "Query string to Object",
 		"developer": "Amici Infotech",
 		"developerUrl": "https://amiciinfotech.com",
-		"documentationUrl": "https://docs.amiciinfotech.com/craft-cms/querystring-to-object",
-		"changelogUrl": "https://github.com/mufi/craft-querystring-to-object/master/CHANGELOG.md",
-		"downloadUrl": "https://github.com/mufi/craft-querystring-to-object/archive/master.zip",
+		"documentationUrl": "https://docs.amiciinfotech.com/craft-cms/query-string-to-object",
+		"changelogUrl": "https://github.com/amici-infotech/craft-querystring-to-object/master/CHANGELOG.md",
+		"downloadUrl": "https://github.com/amici-infotech/craft-querystring-to-object/archive/master.zip",
 		"class": "amici\\QuerystringToObject\\QuerystringToObject"
 	}
 }
