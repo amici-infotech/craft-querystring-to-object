@@ -1,7 +1,7 @@
 {
 	"name": "amici/craft-querystring-to-object",
 	"description": "Craft CMS filter to convert Query String to Object.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "craft-plugin",
 	"keywords": ["craft", "cms", "craftcms", "craft-plugin", "amici", "querystring", "querystring-to-object", "object"],
 	"license": "proprietary",
